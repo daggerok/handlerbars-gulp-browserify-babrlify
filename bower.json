@@ -1,0 +1,33 @@
+{
+  "name": "handlerbars-gulp-browserify-babrlify",
+  "description": "handlerbars jquery gulp browserify babel babrlify es6",
+  "main": "src/main.js",
+  "authors": [
+    "Maksim Kostromin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "handlerbars",
+    "jquery",
+    "gulp",
+    "browserify",
+    "babel",
+    "babrlify",
+    "es6"
+  ],
+  "homepage": "https://github.com/daggerok/handlerbars-gulp-browserify-babrlify",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
